@@ -1,4 +1,15 @@
 ---
 label: test1
 hide_body: false
-fields: []
+fields:
+- name: pic
+  type: file
+  config:
+    maxSize: 64
+  label: pic
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: title of site
