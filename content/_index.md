@@ -1,7 +1,11 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Danny Grant Construction
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
+## ![](/images/static/images/upload/2020-09-09-14-24-50-2020-10.jpg)Danny Grant Construction
+
+### 
